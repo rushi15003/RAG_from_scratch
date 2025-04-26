@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# JSON or data outputs (optional if you regenerate them)
+*.json
+*.npy
+
+# PDF data folder (if it's large or personal)
+data/
+
+# Secrets / credentials (if any)
+*.env
+secrets.json
+
+# Cache and build
+.cache/
+build/
+dist/
+*.egg-info/
